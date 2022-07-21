@@ -1,0 +1,13 @@
+// Git Bash
+{   "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.shell.windows" : "C:\\MyFile\\Applications\\gitbash\\bin\\bash.exe",
+    "workbench.editor.enablePreview": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "jupyter.askForKernelRestart": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.maxMemoryForLargeFilesMB": 6000,
+    "python.defaultInterpreterPath": "C:\\MyFile\\Applications\\Anaconda\\envs\\env\\python.exe",
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay"
+}
